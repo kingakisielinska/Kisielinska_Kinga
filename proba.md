@@ -54,7 +54,8 @@ One asterisk, space and text.
 Example for Numbered List  
 Simply number the list.  
 1. First point.
-2. Second point.
+2. Second point.  
+3. Third point.  
 
 Example for Quote  
 ">" Put this before opening a quote.  
